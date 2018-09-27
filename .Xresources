@@ -1,0 +1,58 @@
+!Xft.dpi: 130
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+
+!##############################################################################
+!######################### RXVT-UNICODE CONFIG INFO ###########################
+!##############################################################################
+
+!-----Font Settings-----
+URxvt.font:		xft:inconsolata:size=11:antialias=true:hinting=true		
+URxvt.boldFont:		xft:inconsolata:size=11:antialias=true:hinting=true	
+URxvt.italicFont:	xft:inconsolata:size=11:antialias=true:hinting=true		
+URxvt.bolditalicFong:	xft:inconsolata:size=11:antialias=true:hinting=true		
+
+!-----Colors-----
+!212f3d (blueish black)
+!ecc77e pastel amber
+
+URxvt*background:	#282828
+URxvt*foreground:	#ebdbb2
+
+!red
+URxvt*color1:		#cc241d
+URxvt*color9:		#fb4934
+
+!green
+URxvt*color2:		#98971a
+URxvt*color10:		#b8bb26
+
+!yellow
+URxvt*color3:		#d79921
+URxvt*color11:		#fabd2f
+
+!blue
+URxvt*color4:		#458588
+URxvt*color12:		#83a598
+
+!purple
+URxvt*color5:		#b16286
+URxvt*color13:		#d3869b
+
+!cyan
+URxvt*color6:		#659967
+URxvt*color14:		#8ec07c
+
+!white
+URxvt*color7:		#a89984
+URxvt*color15:		#ebdbb2
+
+!Disable scroll bar
+URxvt.scrollBar:	false
+
+
